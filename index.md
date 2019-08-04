@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Welcome to Homepage
+title: Locus Assignment
 ---
